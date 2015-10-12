@@ -13,7 +13,7 @@ import java.util.Random;
 
 public class FortuneTeller extends javax.swing.JFrame  {
 	
-	private javax.swing.JButton buttonFortune;
+    private javax.swing.JButton buttonFortune;
     private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.JButton buttonLuckyNumbers;
     private javax.swing.JLabel jBackground;
